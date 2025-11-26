@@ -1,6 +1,6 @@
 This is a batch "operating system".              Please dont take the "Operating system" part too seriously..
 
-Most of the code was made by me, however some fixes have been made by AI
+Most of the code was made by me, however some fixes have been made by AI..
 Take the code if you want it, but i dont know in what way it would be useful.
 
 
